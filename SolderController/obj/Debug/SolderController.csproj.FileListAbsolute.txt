@@ -1,0 +1,12 @@
+C:\Users\Niko\source\repos\SolderController\SolderController\bin\Debug\SolderController.exe.config
+C:\Users\Niko\source\repos\SolderController\SolderController\bin\Debug\SolderController.exe
+C:\Users\Niko\source\repos\SolderController\SolderController\bin\Debug\SolderController.pdb
+C:\Users\Niko\source\repos\SolderController\SolderController\obj\Debug\SolderController.csprojAssemblyReference.cache
+C:\Users\Niko\source\repos\SolderController\SolderController\obj\Debug\SolderController.exe
+C:\Users\Niko\source\repos\SolderController\SolderController\obj\Debug\SolderController.pdb
+C:\Users\Niko\source\repos\SolderController\SolderController\bin\Debug\SharpDX.dll
+C:\Users\Niko\source\repos\SolderController\SolderController\bin\Debug\SharpDX.XInput.dll
+C:\Users\Niko\source\repos\SolderController\SolderController\bin\Debug\SharpDX.pdb
+C:\Users\Niko\source\repos\SolderController\SolderController\bin\Debug\SharpDX.XInput.pdb
+C:\Users\Niko\source\repos\SolderController\SolderController\bin\Debug\SharpDX.XInput.xml
+C:\Users\Niko\source\repos\SolderController\SolderController\obj\Debug\SolderController.csproj.CopyComplete
